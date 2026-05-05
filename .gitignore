@@ -1,0 +1,45 @@
+# Raw data corpus (large files, potential copyright)
+晋商徽商/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/build/
+
+# Data
+data/raw_txt/
+data/cleaned/
+data/chroma_db/
+
+# Claude Code
+.claude/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PDFs (large files)
+*.pdf
